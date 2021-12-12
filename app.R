@@ -16,13 +16,13 @@ ui <- fluidPage(
   br(),
   br(),
 
-  # Sidebar with inputs for the random number generator
+  
   sidebarLayout(
     sidebarPanel(
        width = 0
     ),
 
-    # Show a table of random numbers
+    
     mainPanel(
       column(2,
              p(jatekosok[1]),
