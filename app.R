@@ -19,41 +19,7 @@ ui <- fluidPage(
   # Sidebar with inputs for the random number generator
   sidebarLayout(
     sidebarPanel(
-      # br(),
-      # br(),
-      # # p(jatekosok[1]),
-      # # p(jatekosok[2]),
-      # # p(jatekosok[3]),
-      # # p(jatekosok[4]),
-      # # p(jatekosok[5]),
-      # # p(jatekosok[6]),
-      # # p(jatekosok[7]),
-      # # p(jatekosok[8]),
-      # # p(jatekosok[9]),
-      # # p(jatekosok[10]),
-      # # p(jatekosok[11]),
-      # # p(jatekosok[12]),
-      # # p(jatekosok[13]),
-      # # p(jatekosok[14]),
-      # # p(jatekosok[15]),
-      # # p(jatekosok[16]),
-      # # p(jatekosok[17]),
-      # # p(jatekosok[18]),
-      # # p(jatekosok[19]),
-      # # p(jatekosok[20]),
-      # # p(jatekosok[21]),
-      # # p(jatekosok[22]),
-      # # p(jatekosok[23]),
-      # # p(jatekosok[24]),
-      # # p(jatekosok[25]),
-      # # p(jatekosok[26]),
-      # # p(jatekosok[27]),
-      # # p(jatekosok[28]),
-      # # p(jatekosok[29]),
-      # br(),
-      # br(),
-      # br(),
-       width = -1
+       width = 0
     ),
 
     # Show a table of random numbers
